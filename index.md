@@ -27,7 +27,7 @@ knit        : slidify::knit2slides
 ---
 
 ## Purpose
-1. A tool for computational biologist to understand protient structures and functions quickly
+1. A tool for computational biologist to quickly understand protein functions and relationships 
 
 ## Current Limitation
 1. Shows only first 100 records do to compting resource constraints
