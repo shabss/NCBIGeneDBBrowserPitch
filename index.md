@@ -1,7 +1,7 @@
 ---
-title       : 
+title       : NCBI Gene Database Browser
 subtitle    : 
-author      : 
+author      : Shabbir Suterwala (shabbirsuterwala@gmail.com)
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -11,16 +11,32 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Read-And-Delete
+## NCBI Gene Database Browser
 
-1. Edit YAML front matter
-2. Write using R Markdown
-3. Use an empty line followed by three dashes to separate slides!
+1. URL: https://shabss.shinyapps.io/NCBIGeneDBBrowser/
+2. Shows NCBI Gene Databases' layout and first 100 records
+3. NCBI Gene Databases: ftp://ftp.ncbi.nlm.nih.gov/gene/
+   1. Readme: ftp://ftp.ncbi.nlm.nih.gov/gene/README
 
 --- .class #id 
 
-## Slide 2
+## Demo
+<iframe src="https://shabss.shinyapps.io/NCBIGeneDBBrowser/"></iframe>
 
+---
 
+## Purpose
+1. A tool for computational biologist to understand protient structures and functions quickly
 
+## Current Limitation
+1. Shows only first 100 records do to compting resource constraints
+2. ASN.1 format databases (.ags) files are currently not shown
+
+---
+
+## Roadmap
+1. Fix current limitations
+2. Comprehensive collection of databases from NCBI and EMBL-EBI
+3. Show relationships between various protiens
+4. Statistical and predicitive analysis on protient function and relationshps
 
