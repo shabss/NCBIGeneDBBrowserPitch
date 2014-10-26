@@ -20,7 +20,8 @@ knit        : slidify::knit2slides
 
 --- .class #id 
 
-## Demo
+## Demo (run on October 26, 2014)
+
 <iframe src="https://shabss.shinyapps.io/NCBIGeneDBBrowser/"></iframe>
 
 ---
