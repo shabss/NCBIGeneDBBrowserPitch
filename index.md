@@ -21,7 +21,7 @@ knit        : slidify::knit2slides
 
 --- .class #id 
 
-## Demo (run on October 31, 2014)
+## Demo (run on November 04, 2014)
 
 <iframe src="https://shabss.shinyapps.io/NCBIGeneDBBrowser/"></iframe>
 
@@ -39,6 +39,6 @@ knit        : slidify::knit2slides
 ## Roadmap
 1. Fix current limitations
 2. Comprehensive collection of databases from NCBI and EMBL-EBI
-3. Show relationships between various protiens
-4. Statistical and predicitive analysis on protien function and relationshps
+3. Show relationships between various proteins
+4. Statistical and predictive analysis on protein function and relationships
 
