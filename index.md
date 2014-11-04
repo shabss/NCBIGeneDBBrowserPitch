@@ -13,6 +13,7 @@ knit        : slidify::knit2slides
 
 ## NCBI Gene Database Browser
 
+
 1. URL: https://shabss.shinyapps.io/NCBIGeneDBBrowser/
 2. Shows NCBI Gene Databases' layout and first 100 records
 3. NCBI Gene Databases: ftp://ftp.ncbi.nlm.nih.gov/gene/
@@ -20,7 +21,7 @@ knit        : slidify::knit2slides
 
 --- .class #id 
 
-## Demo (run on October 26, 2014)
+## Demo (run on October 31, 2014)
 
 <iframe src="https://shabss.shinyapps.io/NCBIGeneDBBrowser/"></iframe>
 
@@ -30,7 +31,7 @@ knit        : slidify::knit2slides
 1. A tool for computational biologist to quickly understand protein functions and relationships 
 
 ## Current Limitation
-1. Shows only first 100 records do to compting resource constraints
+1. Shows only first 100 records due to computing resource constraints
 2. ASN.1 format databases (.ags) files are currently not shown
 
 ---
@@ -39,5 +40,5 @@ knit        : slidify::knit2slides
 1. Fix current limitations
 2. Comprehensive collection of databases from NCBI and EMBL-EBI
 3. Show relationships between various protiens
-4. Statistical and predicitive analysis on protient function and relationshps
+4. Statistical and predicitive analysis on protien function and relationshps
 
